@@ -1,0 +1,13 @@
+body {
+    height:1900px;
+}
+.row {
+    justify-content: space-around;
+}
+.d-block {
+    height: 600px;
+}
+.pagination {
+    display: flex;
+    justify-content: center;
+}
